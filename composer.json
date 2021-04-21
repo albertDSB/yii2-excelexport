@@ -12,8 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.13",
-        "mikehaertl/php-tmpfile": "^1.0.0",        
-        "ruecoder/phpexcel": "1.8"
+        "mikehaertl/php-tmpfile": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
