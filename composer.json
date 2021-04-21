@@ -12,15 +12,8 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.13",
-        "mikehaertl/php-tmpfile": "^1.0.0",
-        "ruecoder/phpexcel": "dev-master"
-    },
-    "repositories": [        
-        {
-            "type": "vcs",
-            "url": "https://github.com/ruecoder/PHPExcel"            
-        }
-    ],
+        "mikehaertl/php-tmpfile": "^1.0.0"
+    },    
     "autoload": {
         "psr-4": {
             "codemix\\excelexport\\": "src/"
